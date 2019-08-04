@@ -35,4 +35,8 @@ If you see a message of
 
 You need to edit the trsp.py file, and replace the value of Areanas with your Qth as you entered in GPredict. Else ... The Modules will be developed from my house and not yours.
 
+### Program
 
+The ipynb file [gen_trsp.ipynb](gen_trsp.ipynb) has more documentation, and would be easier to read/understand. 
+
+The **trsp.py** is the same code  - with a few print statements added.
